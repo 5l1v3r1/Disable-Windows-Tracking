@@ -1,5 +1,5 @@
 Выключает слежку виндоус (Полностью ее нельзя выключить )
-                                   ![к](https://user-images.githubusercontent.com/102496559/184756537-d0809886-485d-48ab-a04b-88e6a9ae4051.png)
+                ![к](https://user-images.githubusercontent.com/102496559/184756537-d0809886-485d-48ab-a04b-88e6a9ae4051.png)
 
 
 
