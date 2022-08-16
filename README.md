@@ -1,6 +1,6 @@
 # Disable-Windows-Tracking
 Отключает слежку виндовс ( Полностью ее нельзя вырубить)
-                ![security](https://user-images.githubusercontent.com/102496559/184756131-32bb4575-2450-4d68-b0c7-299f2460bc24.png)
+                              ![к](https://user-images.githubusercontent.com/102496559/184756345-ae61aa72-566b-490a-b0b7-aab768ef47d6.png)
 
 
 
